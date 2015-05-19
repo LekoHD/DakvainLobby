@@ -1,0 +1,9 @@
+name: DakvainLobby
+main: com.lekohd.dakvainlobby.Main
+version: 0.1
+author: Leon167
+
+commands:
+  portal:
+    description: Portale Verwalten
+    usage: /portal
